@@ -1,0 +1,12 @@
+{
+  "name": "minizbha",
+  "version": "0.0.1",
+  "description": "Mini Zigbee Home Automation Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gauthier Provost",
+  "license": "MIT"
+}
